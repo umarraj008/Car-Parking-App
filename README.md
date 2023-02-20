@@ -18,7 +18,6 @@ Pexels (2021). Free stock photos · Pexels. [online] Pexels.com. Available at:
 https://www.pexels.com/ [Accessed 25 Dec. 2022]
 
 
-
 ## Authors
 
 - [@umarraj008](https://github.com/umarraj008)
