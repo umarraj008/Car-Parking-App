@@ -8,31 +8,14 @@ This is a car parking app created in mobile design and development module for un
 
 ## Screenshots
 
-### Splash Screen
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_163318.png)
-
-### Tracking Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_163841.png)
-
-### Directions API
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_164722.png)
-
-### Find Parking Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_164848.png)
-
-### Favourites Tab
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_164949.png)
-
-### Profile List Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_165024.png)
-
-### Profile Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_165102.png)
-
-### Settings Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_165147.png)
-
-### About Page
 ![App Screenshot](https://github.com/umarraj008/Car-Parking-App/blob/master/Screenshots/Screenshot_20221225_165201.png)
 
 
