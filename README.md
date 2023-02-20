@@ -1,7 +1,7 @@
 
 # Car Parking App
 
-This is a car parking app created in mobile design and development module for universuty.
+This is a car parking app created in mobile design and development module for university.
 
 ![Logo](https://github.com/umarraj008/Car-Parking-App/blob/master/app/src/main/app_logo_icon-playstore.png)
 
